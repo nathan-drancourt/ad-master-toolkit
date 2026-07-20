@@ -1,0 +1,24 @@
+# ---------------------------------------------------------------------------
+# .gitignore - fichiers a NE JAMAIS publier
+# ---------------------------------------------------------------------------
+
+# Configuration reelle de l'infrastructure (noms de domaine, serveurs, groupes)
+config.ps1
+
+# Journaux generes par l'outil
+*.log
+logs/
+
+# Exports et fichiers de travail
+*.csv
+exclusions_dossiers.txt
+
+# Fichiers systeme Windows
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires d'editeurs
+*~
+*.bak
+.vscode/
+.idea/
