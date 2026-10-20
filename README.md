@@ -48,7 +48,7 @@ L'outil est organisé en onglets, dans une fenêtre unique :
 1. **Récupérer le script**
 
    ```powershell
-   git clone https://github.com/ImNvthan/ad-master-toolkit.git
+   git clone https://github.com/nathan-drancourt/ad-master-toolkit.git
    cd ad-master-toolkit
    ```
 
@@ -108,4 +108,4 @@ Distribué sous licence **MIT**. Voir [`LICENSE`](LICENSE).
 ## 👤 Auteur
 
 **Nathan Drancourt** — Administrateur Systèmes & Réseaux
-GitHub : [@ImNvthan](https://github.com/ImNvthan)
+GitHub : [@nathan-drancourt](https://github.com/nathan-drancourt)
