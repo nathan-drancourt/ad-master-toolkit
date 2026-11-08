@@ -1,5 +1,7 @@
 # 🗂️ MASTER AD — Outil d'administration Active Directory
 
+![Aperçu du projet ad-master-toolkit](docs/banner.png)
+
 > Application PowerShell **à interface graphique** (WPF) regroupant les tâches courantes d'administration Active Directory : création et modification de comptes, procédure de sortie, gestion des dossiers utilisateurs et inventaire des postes.
 
 **Particularité principale : aucun module RSAT requis.** L'outil interroge l'annuaire en **LDAP pur** via `System.DirectoryServices`, ce qui lui permet de fonctionner depuis n'importe quel poste du domaine, sans installation préalable.
